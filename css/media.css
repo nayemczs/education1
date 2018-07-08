@@ -1,0 +1,384 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+   .banner_text{
+    margin: 240px 0;
+    
+}
+    .banner_text h1{
+    font-size: 30pt;
+   
+}
+   .banner_text h5{
+    font-size: 20pt;
+  
+} 
+    #banner{
+  
+    min-height: 530px;
+    
+}
+    #kid{
+  
+    padding: 20px;
+    
+}
+ .kid_img{
+            margin-top: 22px;
+    }
+    .common_title h1{
+    font-size: 23pt;
+  
+    font-weight: bold;
+    
+}
+   .kid_content h1{
+    font-size: 18pt;
+    font-weight: bold;
+}   
+    
+      .custom_circle h2{
+    font-size: 20pt;
+   margin-bottom: 40px;
+    margin-top: 10px;
+}  
+    .custom_circle:last-child h2{
+        margin-bottom: 0px;
+    }
+    
+ .card{
+        margin-top: 40px;
+        
+    }
+    .courses_footer{
+        min-height: 40px;
+        margin: 30px 0 40px 0;
+        font-size: 20px;
+    }
+    .courses_footer i{
+    
+    margin-top: 10px;
+}
+    .moment_button{
+    margin-top: 30px;
+    
+}
+        .teacher_content h1{
+    
+ margin-top: 20px;
+   
+}
+         .date_common_title{
+        
+       
+         text-align: center !important;
+    }
+    .date_common_title hr{
+        
+       
+         
+        margin: 0 auto;
+    }
+      .date_common_title2{
+        
+       
+         text-align: center !important;
+    }
+    .date_common_title2 hr{
+        
+       
+         
+        margin: 0 auto;
+    }
+    .events_right{
+        text-align: center !important;
+    }
+   .events_left{
+        text-align: center !important;
+    }
+      .date_content h4{
+        
+          margin: 0 auto;
+    }
+        .events_right_content h1{
+        margin-top: 20px;
+    }
+    .events_right_content hr {
+    width: 240px
+}
+    
+    .arts_events{
+        margin-bottom: 70px;
+        
+    }
+    #contact{
+        padding-top: 550px;
+    }
+    .contact_text{
+        text-align: center !important;
+        
+    }
+    .yellow_style{
+margin-top: 20px;
+  
+}
+    .yellow_style hr{
+ margin: 0 auto !important;
+}
+        .green_style2 hr{
+ margin: 0 auto !important;
+}
+        .red_style2 hr{
+ margin: 0 auto !important;
+            margin-bottom: 20px;
+}
+    .red_style2 p{
+  
+    
+ margin-top: 10px;
+   
+   
+}
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ .banner_text{
+    margin: 210px 0;
+    
+}
+    .banner_text h1{
+    font-size: 50pt;
+   
+}
+   .banner_text h5{
+    font-size: 25pt;
+  
+} 
+     #banner{
+  
+    min-height: 620px;
+    
+}   
+  .kid_img{
+            margin-top: 22px;
+    }
+    .custom_circle h2{
+    font-size: 20pt;
+   margin-bottom: 40px;
+    margin-top: 10px;
+}
+   .moment_button{
+    margin-top: 40px;
+    
+} 
+        .teacher_content h1{
+    
+ margin-top: 20px;
+   
+}
+      .card{
+        margin-top: 20px;
+        
+    }
+  .date_content{
+        text-align: center !important;
+    }
+      .date_content h4{
+        
+          margin: 0 auto;
+    }
+     .date_common_title{
+        
+       
+         text-align: center !important;
+    }
+    .date_common_title hr{
+        
+       
+         
+        margin: 0 auto;
+    }
+      .date_common_title2{
+        
+       
+         text-align: center !important;
+    }
+    .date_common_title2 hr{
+        
+       
+         
+        margin: 0 auto;
+    }
+    .events_right{
+        text-align: center !important;
+    }
+    
+  .date_common_title{
+       margin-bottom: 40px; 
+         margin-top: 0px;
+        
+    }
+   .date_common_title2{
+       margin-left: 30px;
+          margin-bottom: 0px;
+        
+    }
+    .events_right_content h1{
+        margin-top: 20px;
+    }
+    .events_right_content hr {
+    width: 340px
+}
+       .contact_content{
+    margin-top: 20px;
+    
+}
+    .green_style2{
+        
+            margin-top: 36px;
+    margin-bottom: 29px;
+    }
+    .red_style2{
+      margin-top: 36px;
+    margin-bottom: 29px;
+  
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    
+     .banner_text{
+    margin: 310px 0;
+    
+}
+    .banner_text h1{
+    font-size: 60pt;
+   
+}
+   .banner_text h5{
+    font-size: 35pt;
+  
+} 
+   .kid_content h1{
+    font-size: 20pt;
+  
+}
+    .kid_content p{
+    font-size: 12px;
+  
+}
+    .kid_img{
+            margin-top: 82px;
+    }
+    .card{
+        margin-top: 20px;
+        
+    }
+            .teacher_content hr{
+   width: 175px;
+}
+    .teacher_content h1{
+    
+ margin-top: 20px;
+   
+}
+    .date_common_title{
+    margin-left: 20px;
+      margin-bottom: 80px;
+}
+        .date_content h1{
+    font-size: 18px;
+
+}
+    .date_content{
+        text-align: center !important;
+    }
+      .date_content h4{
+        
+          margin: 0 auto;
+    }
+     .date_common_title{
+       margin-bottom: 70px; 
+         margin-top: 10px;
+        
+    }
+    .date_common_title h1{
+        
+       font-size:  24pt;
+    }
+      .date_common_title2{
+       margin-left: 30px;
+          margin-bottom: 0px;
+        
+    }
+    .events_right_content h1{
+        margin-top: 20px;
+    }
+     .arts_events{
+        margin-bottom: 080px;
+        
+    }
+     .events_right{
+        text-align: center !important;
+    }
+   .events_left{
+        text-align: center !important;
+    }
+            .events_right_content hr {
+    width: 300px
+}
+        .contact_content{
+    margin-top: 20px;
+    
+}
+    .custom_margin ul li a{
+    font-size: 10px;
+    font-weight: bold;
+    padding: 0 06px !important;
+    
+}
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .kid_img{
+            margin-top: 62px;
+    }
+    .date_content{
+    margin-top: 10px;
+
+}
+    .date_content h1{
+    font-size: 20px;
+
+}
+      .arts_events{
+        margin-bottom: 050px;
+        
+    }
+    .contact_content{
+    margin-top: 20px;
+    
+}
+.red_style2 p{
+    font-size: 12px;
+    
+    }
+.contact_content p{
+  
+    
+    
+    font-size: 12px;
+   
+}
+    
+    
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+}

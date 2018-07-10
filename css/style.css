@@ -795,7 +795,7 @@ footer{
     font-size: 18px;
     font-weight: bold;
     padding: 0 12px !important;
-    color: white;
+    color: white !important;
 }
 .custom_nav2 p{
     color: white;
